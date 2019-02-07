@@ -1,8 +1,8 @@
-## Goal
+
 
 Create a simple service prototype with a basic queue.
 
-## “Send” method 
+## “Send” method
 
 **Receives** a POST request with data in JSON.
 
@@ -31,7 +31,7 @@ Service has queue of tasks that do following:
 * Open specified URL
 * Download response
 * Save needed data
- 
+
 Only 4 tasks could be processed in async mode. If more tasks are created, they wait for available slots in queue.
 
 Task has following data fields
@@ -52,3 +52,5 @@ Task has following data fields
 Public git repository (Github / Bitbucket) is preferred. Other methods are acceptable as well.
 
 Please log how much of your time was spent for the task (with 1 min precision)
+
+
