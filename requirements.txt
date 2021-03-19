@@ -7,7 +7,7 @@ chardet==3.0.4
 Django==2.1.2
 django-celery==3.2.2
 django-suit==0.2.26
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 gevent==1.4.0
 greenlet==0.4.15
 idna==2.6
